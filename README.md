@@ -6,7 +6,7 @@
 
 - 🔥 DevOps / SRE
 
-- 🔭 I’m currently working at in search of opportunity
+- 🔭 I’m currently working at in Getrak
 
 <br><br>
 
