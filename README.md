@@ -4,7 +4,7 @@
 
 <br><br>
 
-- 🔥 DevOps / SRE
+- 🔥 Platform Engineer / DevOps / SRE
 
 - 🔭 I’m currently working at in Getrak
 
