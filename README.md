@@ -42,3 +42,6 @@
 <a target="_blank" href="mailto:edu1552@gmail.com">
   <img align="left" alt="Gmail" width="40px" src="https://github.com/theeedu/theeedu/blob/main/gmail.svg" />
 </a>
+<a target="_blank" href="https://linktr.ee/carloselima">
+  <img align="left" alt="Gmail" width="40px" src="https://github.com/theeedu/theeedu/blob/main/linktr.svg" />
+</a>
