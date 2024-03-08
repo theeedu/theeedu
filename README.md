@@ -43,5 +43,5 @@
   <img align="left" alt="Gmail" width="40px" src="https://github.com/theeedu/theeedu/blob/main/gmail.svg" />
 </a>
 <a target="_blank" href="https://linktr.ee/carloselima">
-  <img align="left" alt="Linktree" width="40px" src="https://github.com/theeedu/theeedu/blob/main/https://img.icons8.com/?size=48&id=9DOe33RY87VM&format=png" />
+  <img align="left" alt="Linktree" width="40px" src="https://github.com/theeedu/theeedu/blob/main/linktr.svg" />
 </a>
