@@ -6,7 +6,7 @@
 
 - 🔥 Platform Engineer / DevOps / SRE
 
-- 🔭 I’m currently working at in Getrak
+- 🔭 I’m currently available for new opportunities.
 
 <br><br>
 
