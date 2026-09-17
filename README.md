@@ -67,12 +67,7 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=theeedu&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theeedu&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theeedu&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
