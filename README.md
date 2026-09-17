@@ -67,7 +67,7 @@
 
 ---
 
-### 📊 GitHub Activity
+<h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theeedu&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
